@@ -2,22 +2,22 @@
 
 	"MusclesList": [
 		{
-			"name": "Biceps",
+			"mname": "Biceps",
 			"mgroup": "Arm",
 			"mimg": "https://creazilla-store.fra1.digitaloceanspaces.com/emojis/45032/flexed-biceps-emoji-clipart-md.png"
 		},
 		{
-			"name": "Triceps",
+			"mname": "Triceps",
 			"mgroup": "Arm",
 			"mimg": "https://creazilla-store.fra1.digitaloceanspaces.com/emojis/45032/flexed-biceps-emoji-clipart-md.png"
 		},
 		{
-			"name": "Posterior Delt",
+			"mname": "Posterior Delt",
 			"mgroup": "Arm",
 			"mimg": "https://creazilla-store.fra1.digitaloceanspaces.com/emojis/45032/flexed-biceps-emoji-clipart-md.png"
 		},
 		{
-			"name": "Anterior Delt",
+			"mname": "Anterior Delt",
 			"mgroup": "Arm",
 			"mimg": "https://creazilla-store.fra1.digitaloceanspaces.com/emojis/45032/flexed-biceps-emoji-clipart-md.png"
 		}
