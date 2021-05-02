@@ -1,25 +1,29 @@
 {
 
-	"muscleslist": [
+	"grouplist": [
 		{
-			"mname": "Biceps",
 			"mgroup": "Arm",
 			"mimg": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt900a62af1ab45671/60818b9d6371c75a11adab9e/TFT_Cultists_1920_1080_26_03_21_ES.jpg?quality=90&crop=1%3A1&width=240"
 		},
 		{
-			"mname": "Triceps",
-			"mgroup": "Arm",
+			"mgroup": "Chest",
 			"mimg": "https://raw.githubusercontent.com/solidhagane/gymapp/main/imgs/biceps.png"
 		},
 		{
-			"mname": "Posterior Delt",
-			"mgroup": "Arm",
+			"mgroup": "Back",
 			"mimg": "https://raw.githubusercontent.com/solidhagane/gymapp/main/imgs/biceps.png"
 		},
 		{
-			"mname": "Anterior Delt",
-			"mgroup": "Arm",
+			"mgroup": "Leg",
 			"mimg": "https://raw.githubusercontent.com/solidhagane/gymapp/main/imgs/biceps.png"
+		},
+		{
+			"mgroup": "Abdomen",
+			"mimg:" ,
+		},
+		{
+			"mgroup": "Glutes",
+			"mimg:",
 		}
 	]
 
