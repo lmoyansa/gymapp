@@ -25,6 +25,37 @@
 			"mgroup": "Glutes",
 			"mimg": ""
 		}
+	],
+	
+	"exercisesList": [
+		"Arm": [
+			{
+				"id": 1,
+				"exerciseName": "Biceps curl with bar"
+			},
+			{
+				"id": 2,
+				"exerciseName": "Upright barbell rows"
+			},
+			{
+				"id": 3,
+				"exerciseName": "French press sitted"
+			}
+		],
+		"Chest": [
+			{
+				"id": 4,
+				"exerciseName": "Push-ups"
+			},
+			{
+				"id": 5,
+				"exerciseName": "Pullover with bar"
+			},
+			{
+				"id": 6,
+				"exerciseName": "Bench press with bar"
+			}
+		]
 	]
 
 }
