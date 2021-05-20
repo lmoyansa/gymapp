@@ -2,7 +2,7 @@
 
   "exerciseslist": 
 	[
-		"arm": 
+		"Arm" : 
 		[
 			{
 				"id": 1,
@@ -20,7 +20,7 @@
 				"exerciseMuscle": "Triceps"
 			}
 		],
-		"chest": 
+		"Chest" : 
 		[
 			{
 				"id": 4,
