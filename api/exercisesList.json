@@ -4,29 +4,35 @@
 		"Arm": [
 			{
 				"id": 1,
-				"exerciseName": "Biceps curl with bar"
+				"exerciseName": "Biceps curl with bar",
+	  			"exerciseMuscle": "Biceps"
 			},
 			{
 				"id": 2,
 				"exerciseName": "Upright barbell rows"
+				"exerciseMuscle": "Deltoids"
 			},
 			{
 				"id": 3,
 				"exerciseName": "French press sitted"
+				"exerciseMuscle": "Triceps"
 			}
 		],
 		"Chest": [
 			{
 				"id": 4,
 				"exerciseName": "Push-ups"
+				"exerciseMuscle": "Pecs"
 			},
 			{
 				"id": 5,
 				"exerciseName": "Pullover with bar"
+				"exerciseMuscle": "Pecs"
 			},
 			{
 				"id": 6,
 				"exerciseName": "Bench press with bar"
+				"exerciseMuscle": "Pecs"
 			}
 		]
 	]
