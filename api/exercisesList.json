@@ -1,6 +1,6 @@
 {
 
-  "exerciseslist": [ 
+  "exerciseslist": { 
 		"arm": [
 			{
 				"id": 1,
@@ -35,6 +35,6 @@
 				"exerciseMuscle": "Pecs"
 			}
 		]
-	]
+  }
 
 }
