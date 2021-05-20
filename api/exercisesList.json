@@ -1,7 +1,9 @@
 {
 
-  "exerciseslist": [
-		"arm": [
+  "exerciseslist": 
+	[
+		"arm": 
+		[
 			{
 				"id": 1,
 				"exerciseName": "Biceps curl with bar",
@@ -18,7 +20,8 @@
 				"exerciseMuscle": "Triceps"
 			}
 		],
-		"chest": [
+		"chest": 
+		[
 			{
 				"id": 4,
 				"exerciseName": "Push-ups"
