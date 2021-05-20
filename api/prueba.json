@@ -1,6 +1,7 @@
 {
 
-  "exerciseslist": [
+  "exerciseslist": 
+	[
 			{
 				"id": 1,
 				"exerciseName": "Biceps curl with bar",
