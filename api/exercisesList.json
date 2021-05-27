@@ -41,7 +41,87 @@
 				"exerciseMuscle": "Pecs",
 				"exerciseGroup": "Chest"
 			}
-		]
+		],
+		[
+			{
+				"id": 7,
+				"exerciseName": "Bent over barbellrow",
+				"exerciseMuscle": "Lats / Traps",
+				"exerciseGroup": "Back"
+			},
+			{
+				"id": 8,
+				"exerciseName": "Barbell deadlift",
+				"exerciseMuscle": "Lower back / Lats",
+				"exerciseGroup": "Back"
+			},
+			{
+				"id": 9,
+				"exerciseName": "Rowing one arm dumbbells",
+				"exerciseMuscle": "Lats",
+				"exerciseGroup": "Back"
+			}
+		],
+		[
+			{
+				"id": 10,
+				"exerciseName": "Seated hamstring curl",
+				"exerciseMuscle": "Hamstrings",
+				"exerciseGroup": "Leg"
+			},
+			{
+				"id": 11,
+				"exerciseName": "Dumbbellcalf raises",
+				"exerciseMuscle": "Calves",
+				"exerciseGroup": "Leg"
+			},
+			{
+				"id": 12,
+				"exerciseName": "Leg extensions",
+				"exerciseMuscle": "Quads",
+				"exerciseGroup": "Leg"
+			}
+		],
+		[
+			{
+				"id": 13,
+				"exerciseName": "Plank",
+				"exerciseMuscle": "Abdomen / obliques",
+				"exerciseGroup": "Abdomen"
+			},
+			{
+				"id": 14,
+				"exerciseName": "Floor crunch",
+				"exerciseMuscle": "Abdomen",
+				"exerciseGroup": "Abdomen"
+			},
+			{
+				"id": 15,
+				"exerciseName": "Russian twist",
+				"exerciseMuscle": "Abdomen / obliques",
+				"exerciseGroup": "Abdomen"
+			}
+		],
+		[
+			{
+				"id": 13,
+				"exerciseName": "Dumbbell lunge",
+				"exerciseMuscle": "Glutes / Leg",
+				"exerciseGroup": "Glutes"
+			},
+			{
+				"id": 14,
+				"exerciseName": "Barbell glute bridge",
+				"exerciseMuscle": "Glutes",
+				"exerciseGroup": "Glutes"
+			},
+			{
+				"id": 15,
+				"exerciseName": "Hip thrust",
+				"exerciseMuscle": "Glutes",
+				"exerciseGroup": "Glutes"
+			}
+		],
   ]
 
 }
