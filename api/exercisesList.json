@@ -7,19 +7,22 @@
 				"id": 1,
 				"exerciseName": "Biceps curl with bar",
 	  			"exerciseMuscle": "Biceps",
-				"exerciseGroup": "Arm"
+				"exerciseGroup": "Arm",
+				"exerciseVideo": "QZEqB6wUPxQ"
 			},
 			{
 				"id": 2,
 				"exerciseName": "Upright barbell rows",
 				"exerciseMuscle": "Deltoids",
-				"exerciseGroup": "Arm"
+				"exerciseGroup": "Arm",
+				"exerciseVideo": "nIJGvsdNtFE"
 			},
 			{
 				"id": 3,
 				"exerciseName": "French press sitted",
 				"exerciseMuscle": "Triceps",
-				"exerciseGroup": "Arm"
+				"exerciseGroup": "Arm",
+				"exerciseVideo": "JImgCWzCHwI"
 			}
 		],
 		[
@@ -27,19 +30,22 @@
 				"id": 4,
 				"exerciseName": "Push-ups",
 				"exerciseMuscle": "Pecs",
-				"exerciseGroup": "Chest"
+				"exerciseGroup": "Chest",
+				"exerciseVideo": "rtDDQYO_RbA"
 			},
 			{
 				"id": 5,
 				"exerciseName": "Pullover with bar",
 				"exerciseMuscle": "Pecs",
-				"exerciseGroup": "Chest"
+				"exerciseGroup": "Chest",
+				"exerciseVideo": "b3b-bv-aoDA"
 			},
 			{
 				"id": 6,
 				"exerciseName": "Bench press with bar",
 				"exerciseMuscle": "Pecs",
-				"exerciseGroup": "Chest"
+				"exerciseGroup": "Chest",
+				"exerciseVideo": "ysUTNll8JQ8"
 			}
 		],
 		[
@@ -47,19 +53,22 @@
 				"id": 7,
 				"exerciseName": "Bent over barbellrow",
 				"exerciseMuscle": "Lats / Traps",
-				"exerciseGroup": "Back"
+				"exerciseGroup": "Back",
+				"exerciseVideo": "vT2GjY_Umpw"
 			},
 			{
 				"id": 8,
 				"exerciseName": "Barbell deadlift",
 				"exerciseMuscle": "Lower back / Lats",
-				"exerciseGroup": "Back"
+				"exerciseGroup": "Back",
+				"exerciseVideo": "r4MzxtBKyNE"
 			},
 			{
 				"id": 9,
 				"exerciseName": "Rowing one arm dumbbells",
 				"exerciseMuscle": "Lats",
-				"exerciseGroup": "Back"
+				"exerciseGroup": "Back",
+				"exerciseVideo": "Biu_akIOyHc"
 			}
 		],
 		[
@@ -67,19 +76,22 @@
 				"id": 10,
 				"exerciseName": "Seated hamstring curl",
 				"exerciseMuscle": "Hamstrings",
-				"exerciseGroup": "Leg"
+				"exerciseGroup": "Leg",
+				"exerciseVideo": "F488k67BTNo"
 			},
 			{
 				"id": 11,
-				"exerciseName": "Dumbbellcalf raises",
+				"exerciseName": "Dumbbell calf raises",
 				"exerciseMuscle": "Calves",
-				"exerciseGroup": "Leg"
+				"exerciseGroup": "Leg",
+				"exerciseVideo": "wxwY7GXxL4k"
 			},
 			{
 				"id": 12,
 				"exerciseName": "Leg extensions",
 				"exerciseMuscle": "Quads",
-				"exerciseGroup": "Leg"
+				"exerciseGroup": "Leg",
+				"exerciseVideo": "ljO4jkwv8wQ"
 			}
 		],
 		[
@@ -87,19 +99,22 @@
 				"id": 13,
 				"exerciseName": "Plank",
 				"exerciseMuscle": "Abdomen / obliques",
-				"exerciseGroup": "Abdomen"
+				"exerciseGroup": "Abdomen",
+				"exerciseVideo": "OuFDY0fwlvk"
 			},
 			{
 				"id": 14,
 				"exerciseName": "Floor crunch",
 				"exerciseMuscle": "Abdomen",
-				"exerciseGroup": "Abdomen"
+				"exerciseGroup": "Abdomen",
+				"exerciseVideo": "NGRKFMKhF8s"
 			},
 			{
 				"id": 15,
 				"exerciseName": "Russian twist",
 				"exerciseMuscle": "Abdomen / obliques",
-				"exerciseGroup": "Abdomen"
+				"exerciseGroup": "Abdomen",
+				"exerciseVideo": "wkD8rjkodUI"
 			}
 		],
 		[
@@ -107,19 +122,22 @@
 				"id": 16,
 				"exerciseName": "Dumbbell lunge",
 				"exerciseMuscle": "Glutes / Leg",
-				"exerciseGroup": "Glutes"
+				"exerciseGroup": "Glutes",
+				"exerciseVideo": "D7KaRcUTQeE"
 			},
 			{
 				"id": 17,
 				"exerciseName": "Barbell glute bridge",
 				"exerciseMuscle": "Glutes",
-				"exerciseGroup": "Glutes"
+				"exerciseGroup": "Glutes",
+				"exerciseVideo": "ylpfCk3i-0Y"
 			},
 			{
 				"id": 18,
 				"exerciseName": "Hip thrust",
 				"exerciseMuscle": "Glutes",
-				"exerciseGroup": "Glutes"
+				"exerciseGroup": "Glutes",
+				"exerciseVideo": "b1nsBZm9sU8"
 			}
 		]
   ]
