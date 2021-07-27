@@ -23,6 +23,20 @@
 				"exerciseMuscle": "Triceps",
 				"exerciseGroup": "Arm",
 				"exerciseVideo": "JImgCWzCHwI"
+			},
+			{
+				"id": 19,
+				"exerciseName": "Biceps curl with dumbbells",
+				"exerciseMuscle": "Biceps",
+				"exerciseGroup": "Arm",
+				"exerciseVideo": "ykJmrZ5v0Oo"
+			},
+			{
+				"id": 20,
+				"exerciseName": "Biceps curl sitted with dumbbells",
+				"exerciseMuscle": "Biceps",
+				"exerciseGroup": "Arm",
+				"exerciseVideo": "0AUGkch3tzc"
 			}
 		],
 		[
